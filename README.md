@@ -1,15 +1,18 @@
 # Rock-Paper-Scissors-Lizard-Spock
-
-This project is created in tribute to the great TV series "The Big Bang Series". This extended version of "Rock Paper Scissors" is first introduced in Season 2 Episode 8, "The lizard-Spock Expansion". When Sheldon and Raj can't agree about what to watch on TV, Raj suggests they settle it with a game of Rock Paper Scissors. Sheldon thinks they should play Rock Paper Scissors Lizard Spock instead, as there is a lower chance that the game will end in a tie.
-
+This project is created in tribute to the great TV series "The Big Bang Series". 
 ## Table of Contents 
+  - [Background](#background)
   - [Interface Demonstration](#Interface-Demonstration)
   - [Basic Setup](#basic-setup)
   - [Basic Usage](#basic-usage)
   - [Examples](#examples)
 
+## Background
+This extended version of "Rock Paper Scissors" is first introduced in Season 2 Episode 8, "The lizard-Spock Expansion". 
+When Sheldon and Raj can't agree about what to watch on TV, Raj suggests they settle it with a game of Rock Paper Scissors. Sheldon thinks they should play Rock Paper Scissors Lizard Spock instead, as there is a lower chance that the game will end in a tie.
+
 ## Interface Demonstration
-<img src="Interface/ demo.png" width="500" height="300"/>
+<img src="Interface\ demo.png" width="500" height="300"/>
 <!-- ![alt text](https://github.com/Liaoqitian/Triangle/blob/master/Interface%20Demo.png "Interface Demo") -->
 
 ## Basic Setup 
