@@ -12,8 +12,7 @@ This extended version of "Rock Paper Scissors" is first introduced in Season 2 E
 When Sheldon and Raj can't agree about what to watch on TV, Raj suggests they settle it with a game of Rock Paper Scissors. Sheldon thinks they should play Rock Paper Scissors Lizard Spock instead, as there is a lower chance that the game will end in a tie.
 
 ## Interface Demonstration
-<img src="Interface\ demo.png" width="500" height="300"/>
-<!-- ![alt text](https://github.com/Liaoqitian/Triangle/blob/master/Interface%20Demo.png "Interface Demo") -->
+![alt text](https://github.com/Liaoqitian/rock-paper-scissors-lizard-spock/blob/master/Interface%20Demo.png "Interface Demo")
 
 ## Basic Setup 
 Navigate to desktop and clone the repository to your local host: 
